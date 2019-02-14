@@ -1,0 +1,8 @@
+﻿<Properties>
+  <WatchEntry0 value="Err.number" />
+  <WatchEntry1 value="Err.Description" />
+  <WatchEntry2 value="Rowcount" />
+  <WatchEntry3 value="Columncount" />
+  <WatchEntry4 value="NINOArr" />
+  <WatchEntry5 value="NINO" />
+</Properties>
